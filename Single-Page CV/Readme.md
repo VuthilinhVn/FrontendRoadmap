@@ -1,8 +1,7 @@
 ## Objective
 
 The goad of this project is created a structured - single page CV using only HTML.
-My Webpage look like the following image:
-![CV](.\Frontend-roadmap\Single-Page CV\images\resume-template-zyl70.png)
+🔗 [Project Page](https://github.com/VuthilinhVn/FrontendRoadmap/tree/main/Single-Page%20CV)
 
 ## Knowledge
 In this project, I got some new skills:
