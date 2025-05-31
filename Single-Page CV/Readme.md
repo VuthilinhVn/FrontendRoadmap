@@ -1,7 +1,7 @@
 ## Objective
 
 The goad of this project is created a structured - single page CV using only HTML.
-🔗 [Project Page](https://github.com/VuthilinhVn/FrontendRoadmap/tree/main/Single-Page%20CV](https://github.com/VuthilinhVn/FrontendRoadmap/tree/main)
+🔗 [Project Page](https://github.com/VuthilinhVn/FrontendRoadmap/tree/main)
 
 ## Knowledge
 In this project, I got some new skills:
